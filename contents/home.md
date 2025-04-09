@@ -1,7 +1,7 @@
 
 
 [![tsgfx](https://img.shields.io/badge/tsgfx-github-blue?logo=github)](https://github.com/tsgfx)
-[![洛浦闻凤](https://img.shields.io/badge/bilibili-洛浦闻凤-pink.svg?logo=bilibili)](https://space.bilibili.com/350036979?spm_id_from=333.1007.0.0)
+[![洛浦闻凤](https://img.shields.io/badge/洛浦闻凤-bilibili-pink.svg?logo=bilibili)](https://space.bilibili.com/350036979?spm_id_from=333.1007.0.0)
 
 
 He is currently pursuing a Bachelor's Degree in Computer Science and Technology at the School of Henan University, China.

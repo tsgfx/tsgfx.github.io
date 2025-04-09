@@ -8,7 +8,7 @@ He is currently pursuing a Bachelor's Degree in Computer Science and Technology 
 grcsxb269@163.com 
 
 #### Education
-B.E., Computer Science and Technology, Henan University, 2018—2022.
+B.E., Computer Science and Technology, Henan University, 2021—2025.
 
 #### Research Interests
 Deep Learning, Machine Learning, Natural Language Processing, Computer Vision

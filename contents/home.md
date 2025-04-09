@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![tsgfx](https://img.shields.io/badge/tsgfx-github-blue?logo=github)](https://github.com/tsgfx)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Bachelor's Degree in Computer Science and Technology at the School of Computer and Information Engineering, Henan University, China.
 
 #### Email
-grcsxb269@[at]163.com
+grcsxb269@163.com 
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Computer Science and Technology, Henan University, 2018—2022.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Machine Learning, Natural Language Processing, Computer Vision
 

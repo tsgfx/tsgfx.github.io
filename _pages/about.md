@@ -30,8 +30,6 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-<!-- TODO(personalize): 按时间倒序列出教育经历，可使用 Markdown 列表或表格；示例：
-- *2022.09 - 至今*, <a href="https://www.tsinghua.edu.cn/">清华大学</a>, 计算机科学与技术, 博士 -->
 - *2025.09至今*, <a href="https://www.tyut.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 太原理工大学 计算机科学与技术（大数据）学院, 山西太原, 硕士研究生
 - *2021.09 - 2016.06*, <a href="https://www.henu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 河南大学 国际（欧美）理工学院, 河南郑州, 本科
 

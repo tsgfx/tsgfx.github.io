@@ -12,11 +12,15 @@ repository               : "tsgfx/tsgfx.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
+# TODO(personalize): 若使用 Google Analytics，填入形如 "G-XXXXXXX" 的 ID，否则留空
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
+# TODO(personalize): 可在各搜索引擎站长平台获取校验码，例如 "abc123..."
 google_site_verification :  # fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
+# TODO(personalize): 必要时填写 Bing 校验码
 bing_site_verification   : # 6D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
+# TODO(personalize): 百度站长平台校验码
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
@@ -27,8 +31,10 @@ author:
   location         : "山西 太原"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
+  # TODO(personalize): 谷歌学术主页链接，例："https://scholar.google.com/citations?user=XXXX"
   googlescholar    : # "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
   email            : "grcsxb269@163.com"
+  # TODO(personalize): 研究者社交主页（可选），例："https://www.researchgate.net/profile/Your-Name"
   researchgate     : # "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
@@ -43,16 +49,20 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
+  # TODO(personalize): LinkedIn 用户名或 vanity URL 结尾，例："ruichao-guo"
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  # TODO(personalize): ORCID 链接，如 "https://orcid.org/0000-0002-1234-5678"
   orcid            : "https://orcid.org/0000-0001-9658-209X"
   pinterest        :
   soundcloud       :
+  # TODO(personalize): 仅在常用时填写 StackOverflow 用户号，例如 "123456/ruichao"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : 
   vine             :
+  # TODO(personalize): 若有微博/推特等中文社交媒体可在此填写
   weibo            :
   xing             :
   youtube          :
